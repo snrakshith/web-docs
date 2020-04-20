@@ -79,3 +79,16 @@ JamBoard :
 - The columns that starts to bunch up creating a bottle neck in your workflow.
 - And also realise what size of cards, can be moved in a timely manner.
   - `( These efficiencies we call flow )`
+
+---
+
+`Lead Time` is the amount of time it takes from when you start working on a project to when its alone
+
+- When you limit `WIP`, your lead time should go down
+  ( Cards should move faster from `in progress` to `done` )
+  - `Decrease Lead Time.`
+- Map `WIP` limits to your team's specifiic skill set.
+- `Reduce Idleness`
+  - If a members work is done quickly ( `He can either Upstream or Downstream in the workflow and helpout others` )
+    - And also he can jump into blocked work and move those cards forward.
+- The goal of setting up a `WIP Limit` should be to protect a `Healthy Engineering Culture`
