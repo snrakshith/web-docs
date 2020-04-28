@@ -1,0 +1,4 @@
+settings sync
+vscode live share
+custom snippets and extensions
+bookmark

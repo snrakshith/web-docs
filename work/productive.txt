@@ -1,0 +1,10 @@
+gitpod.io
+bundlephobia
+other web resourses
+===
+build custom 
+	vscode snippets and extensions
+	babel and eslint plugin
+microsoft todo-list
+google hangouts
+google jamboard
