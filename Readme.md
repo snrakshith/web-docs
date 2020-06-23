@@ -1,2 +1,3 @@
-# Web Docs
-A simple point to point reference to web technologies
+# Doc's
+
+A collection of various quick references
