@@ -1,4 +1,4 @@
-# Compilers Design
+# Compilers Anotomy
 
 ### There are different types of Compilers:
 
@@ -7,7 +7,7 @@
 
 ---
 
-## Modern Approach for Compiler Design is in 3 Phases:
+## Modern Approach for Compiler Anotomy is in 3 Phases:
 
 - Frontend
   - Lexer ( Tokenizer )
