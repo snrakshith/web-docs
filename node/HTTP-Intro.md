@@ -6,7 +6,7 @@
 
 ---
 
-## ! And its's important to remember that all these things happen in JSON
+## `! And its's important to remember that all the communications are done through JSON format`
 
 # Status Codes
 
